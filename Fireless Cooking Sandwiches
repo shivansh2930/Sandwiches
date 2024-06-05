@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title>Sandwich Recipes</title>
+   
+    </head>
+    
+    <style>
+        
+        #cucumber {
+            
+            color:rgb(0, 255, 43);
+        }
+        
+        #spicy {
+            
+            color:rgb(255, 0, 0);
+            
+        }
+        
+        #common {
+            
+            color:rgb(247, 181, 140);
+            
+        }
+        
+    </style>
+    
+    <body>
+        <h1>Sandwich Recipes</h1>
+            
+            <ul>
+                <li><a href="#cucumber">Cucumber-Cheese Overload Sandwich</a></li>
+                <li><a href="#spicy">Ultra-Spicy Sandwich</a></li>
+                <li><a href="#common">Spice n' Cheese Sandwich</a></li>
+            </ul>
+            
+            <h2 id="cucumber">Cucumber-Cheese Overload:-</h2>
+            
+                <h3>Ingredients:</h3>
+        <ul>
+            <li>3 Slices of bread
+            
+            <li>Chopped Cucumber
+            
+            <li>Melted Butter
+            
+            <li>Cheese Slices (2)
+            
+            <li>Salt
+        </ul>
+        
+        <h3>Method:</h3>
+        
+        <ul>
+            <li>Step 1: Take a slice of bread and spread butter on                 it.
+            
+            <li>Step 2: Add a slice of cheese on top of the bread                  slice with butter.
+            
+            <li>Step 3: Add cucumbers on top of the slice with                     cheese. 
+            
+            <li>Step 4: Cover that piece of bread with another                     slice of bread.
+            
+            <li>Step 5: Add a cheese slice on the second bread.
+            
+            <li>Step 6: Add salt and more cucumber slices on the                   second bread.
+            
+            <li>Step 7: Spread butter on the last slice of bread                   and use it to cover the second bread.
+                
+            </li>
+        </ul>
+    
+    <h4>Your Cucumber-Cheese Overload sandwich is ready!</h4>
+    
+    <h5>For a mini version of the Cucumber-Cheese Overload                sandwich, use only two slices of bread.</h5>
+    
+    <h2 id="spicy">Ultra-Spicy Sandwich:-</h2>
+        
+        <h3>Ingredients:</h3>
+        <ul>
+            <li>3 Slices of bread
+            
+            <li>Chopped Cucumber
+            
+            <li>Chopped Tomato
+            
+            <li>Melted Butter
+            
+            <li>Black Pepper
+            
+            <li>Oregano (Optional)
+            
+            <li>Chilli Flakes
+            
+            <li>Spice Dip (Chutney)
+            
+            <li>Salt
+        </ul>
+        
+        <h3>Method:</h3>
+        
+        <ul>
+            <li>Step 1: Take a slice of bread and spread butter on                 it.<br>
+            
+            <li>Step 2: Add cucumbers on top of the slice with                     butter. 
+            
+            <li>Step 3: Add salt and black pepper on that slice.
+            
+            <li>Step 4: Cover that piece of bread with another                     slice of bread.
+            
+            <li>Step 5: Add some spice dip on the second bread.
+            
+            <li>Step 6: Add tomatoes on the second bread.
+            
+            <li>Step 7: Add oregano and/or chilli flakes on this                   bread.
+            
+            <li>Step 8: Add a mix of butter and spice dip on the                  last bread and use it to cover the second bread.
+                
+            </li>
+        </ul>
+    
+    <h4>Your Ultra-Spicy Sandwich is ready!</h4>
+    
+    <h5>For a mini version of the Ultra-Spicy Sandwich, use only two slices of bread.</h5>
+    
+    <h2 id="common">Spice n' Cheese Sandwich:-</h2>
+        
+        <h3>Ingredients:</h3>
+        <ul>
+            <li>3 Slices of bread
+            
+            <li>Chopped Cucumber
+            
+            <li>Chopped Tomato
+            
+            <li>Melted Butter
+            
+            <li>Black Pepper
+            
+            <li>Oregano (Optional)
+            
+            <li>Chilli Flakes (Optional)
+            
+            <li>Cheese Slice
+            
+            <li>Salt
+        </ul>
+        
+        <h3>Method:</h3>
+        
+        <ul>
+            <li>Step 1: Take a slice of bread and spread butter on                 it.<br>
+            
+            <li>Step 2: Add cucumbers on top of the slice with                     butter. 
+            
+            <li>Step 3: Add salt and black pepper on that slice.
+            
+            <li>Step 4: Cover that piece of bread with another                     slice of bread.
+            
+            <li>Step 5: Add a cheese slice on the second bread.
+            
+            <li>Step 6: Add tomatoes on the second bread.
+            
+            <li>Step 7: Add oregano and/or chilli flakes on this                   bread.
+            
+            <li>Step 8: Add butter on the last bread and use it to                 cover the second bread.
+                
+            </li>
+        </ul>
